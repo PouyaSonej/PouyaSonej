@@ -1,6 +1,6 @@
-# Greetings!
+# :wave:Greetings!:wave:
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">GitHub Statistics
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=pouyasonej&theme=synthwave&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@pouyasonej's github-readme-stats"/>
