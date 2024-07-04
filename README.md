@@ -4,9 +4,9 @@ I'm Pouya Sohrabinejad. You can call me Pouya or David.
 
 You can connect with me through:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pouyasohnej@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/qpouya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
+[![Gmail](https://img.icons8.com/nolan/64/gmail.png)](mailto:pouyasohnej@gmail.com)
+[![Telegram](https://img.icons8.com/nolan/64/telegram-app.png)](https://t.me/qpouya)
+[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
 <p align="center">
