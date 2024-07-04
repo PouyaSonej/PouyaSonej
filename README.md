@@ -1,6 +1,7 @@
 # Greetings! :wave:
 
 I'm Pouya Sohrabinejad. You can call me Pouya or David.
+
 You can connect with me through:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pouyasohnej@gmail.com)
