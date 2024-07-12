@@ -24,7 +24,6 @@ You can connect with me through:
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pouyasonej&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
-
 <!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
