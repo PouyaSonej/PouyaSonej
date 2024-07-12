@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi;This+is+pouya;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
 I'm Pouya Sohrabinejad. You can call me Pouya or David.
 
