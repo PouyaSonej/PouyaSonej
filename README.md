@@ -1,6 +1,6 @@
 <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=7a49a5&section=header&reversal=false'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
 I'm Pouya Sohrabinejad. You can call me Pouya or David.
 
@@ -11,6 +11,11 @@ You can connect with me through:
 [![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
 
 ![](https://komarev.com/ghpvc/?username=pouyasonej)
+<p align="center">
+  <a href="https://pouyasonej.github.io"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+
 <!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
