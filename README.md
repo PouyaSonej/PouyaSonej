@@ -21,6 +21,14 @@ You can connect with me through:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<img src="https://raw.githubusercontent.com/pouyasonej/pouyasonej/output/snake.svg" alt="Snake animation" />
+
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
 
