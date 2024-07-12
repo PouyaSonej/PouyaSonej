@@ -39,5 +39,5 @@ You can connect with me through:
 
 
   <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyasonej&layout=donut&hide_border=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=pouyasonej&theme=tokyonight&no-frame=true&column=3&row=2" height="250" alt="@goldenfinix's trophy stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pouyasonej&theme=synthwave&no-frame=true&column=3&row=2" height="250" alt="@goldenfinix's trophy stats"/>
 </p>
