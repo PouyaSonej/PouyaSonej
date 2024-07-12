@@ -22,7 +22,7 @@ You can connect with me through:
 </h3>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pouyasonej&theme=2078"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pouyasonej&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 <!-- Coloured Line -->
 <h3 align="center">
