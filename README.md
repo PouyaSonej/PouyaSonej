@@ -1,6 +1,6 @@
-<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=F35A61&section=header&reversal=false'>
+<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=7a49a5&section=header&reversal=false'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
 I'm Pouya Sohrabinejad. You can call me Pouya or David.
 
