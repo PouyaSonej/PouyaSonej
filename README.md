@@ -35,7 +35,7 @@ You can connect with me through:
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=pouyasonej&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@pouyasonej's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pouyasonej&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@pouyasonej's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pouyasonej&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@pouyasonej's github-readme-streak-stats"/>
 
 
   <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyasonej&layout=donut&hide_border=true&theme=tokyonight" />
