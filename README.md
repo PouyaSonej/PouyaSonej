@@ -1,3 +1,5 @@
+<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=F35A61&section=header&reversal=false'>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
 I'm Pouya Sohrabinejad. You can call me Pouya or David.
@@ -11,8 +13,7 @@ You can connect with me through:
 ![](https://komarev.com/ghpvc/?username=pouyasonej)
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/pouyasonej/pouyasonej/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/pouyasonej/pouyasonej/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=pouyasonej&theme=synthwave&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@pouyasonej's github-readme-stats"/>
