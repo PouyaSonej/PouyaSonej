@@ -11,6 +11,10 @@ You can connect with me through:
 [![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
 
 ![](https://komarev.com/ghpvc/?username=pouyasonej)
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
 
