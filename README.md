@@ -7,6 +7,7 @@ You can connect with me through:
 [![Gmail](https://img.icons8.com/nolan/64/gmail.png)](mailto:pouyasohnej@gmail.com)
 [![Telegram](https://img.icons8.com/nolan/64/telegram-app.png)](https://t.me/qpouya)
 [![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
+![](https://komarev.com/ghpvc/?username=pouyasonej)
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
 <p align="center">
