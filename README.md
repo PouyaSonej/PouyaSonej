@@ -1,7 +1,4 @@
 <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=7a49a5&section=header&reversal=false'>
-
-
-
 ![logo](https://github.com/pouyasonej/pouyasonej/raw/main/githubban.gif)
 
 <div align="center">
