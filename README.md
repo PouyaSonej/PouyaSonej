@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile" alt="Typing SVG"/>
   </a>
 </div>
-![logo](https://github.com/pouyasonej/pouyasonej/main/githubban.gif)
+![logo](https://github.com/pouyasonej/pouyasonej/main/raw/githubban.gif)
 
 <h2 align="center">I'm Pouya Sohrabinejad. You can call me Pouya or David.</h2>
 
