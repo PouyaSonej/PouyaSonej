@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
-I'm Pouya Sohrabinejad. You can call me Pouya or David.
+<h1 align="center">I'm Pouya Sohrabinejad. You can call me Pouya or David.</h1>
 
-You can connect with me through:
+<h3 align="center">You can connect with me through:</h3>
 
-[![Gmail](https://img.icons8.com/nolan/64/gmail.png)](mailto:pouyasohnej@gmail.com)
+<h3 align="center">[![Gmail](https://img.icons8.com/nolan/64/gmail.png)](mailto:pouyasohnej@gmail.com)
 [![Telegram](https://img.icons8.com/nolan/64/telegram-app.png)](https://t.me/qpouya)
-[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
+[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)</h3>
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=pouyasonej&style=flat-square&color=7a49a5">
 <p align="center">
