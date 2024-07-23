@@ -6,11 +6,19 @@
 
 <h3 align="center">You can connect with me through:</h3>
 
-[![Gmail](https://img.icons8.com/nolan/64/gmail.png)](mailto:pouyasohnej@gmail.com)
-[![Telegram](https://img.icons8.com/nolan/64/telegram-app.png)](https://t.me/qpouya)
-[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://linkedin.com/in/pouya-sohrabinejad-98652124b)
+<div align="center">
+  <a href="mailto:pouyasohnej@gmail.com">
+    <img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/qpouya">
+    <img src="https://img.icons8.com/nolan/64/telegram-app.png" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/pouya-sohrabinejad-98652124b">
+    <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/>
+  </a>
+</div>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=pouyasonej&style=flat-square&color=7a49a5">
+<img width="200px" align="center" src="https://komarev.com/ghpvc/?username=pouyasonej&style=flat-square&color=7a49a5">
 <p align="center">
   <a href="https://pouyasonej.github.io"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
