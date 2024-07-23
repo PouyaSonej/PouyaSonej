@@ -16,9 +16,9 @@
   <a href="https://linkedin.com/in/pouya-sohrabinejad-98652124b">
     <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/>
   </a>
+  <br>
+  <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=pouyasonej&style=flat-square&color=7a49a5" alt="Profile views"/>
 </div>
-
-<img width="200px" align="center" src="https://komarev.com/ghpvc/?username=pouyasonej&style=flat-square&color=7a49a5">
 <p align="center">
   <a href="https://pouyasonej.github.io"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
