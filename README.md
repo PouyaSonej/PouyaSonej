@@ -38,9 +38,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pouyasonej&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 <!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+[<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">]()</br></br>
+
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics
 
